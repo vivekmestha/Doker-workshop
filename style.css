@@ -1,7 +1,7 @@
 
         body {
     font-family: Arial, sans-serif;
-    background-color: #efdb28;
+    background-color: #b57be4;
     margin: 0;
     padding: 0;
 }
@@ -10,21 +10,21 @@
     width: 80%;
     margin: 50px auto;
     padding: 30px;
-    background-color: white;
+    background-color: rgb(206, 47, 47);
     border-radius: 10px;
     text-align: center;
 }
 
 h1 {
-    color: #0077b6;
+    color: #5bc1f8;
 }
 
 h2 {
-    color: #333;
+    color: #d612af;
 }
 
 .card {
-    background-color: #10ecec;
+    background-color: #2beaea;
     padding: 20px;
     margin: 20px;
     border-radius: 8px;
@@ -41,5 +41,5 @@ li {
 
 .footer {
     margin-top: 30px;
-    color: gray;
+    color: rgb(1, 1, 1);
 }
