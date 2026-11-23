@@ -1,0 +1,45 @@
+
+        body {
+    font-family: Arial, sans-serif;
+    background-color: #efdb28;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: #0077b6;
+}
+
+h2 {
+    color: #333;
+}
+
+.card {
+    background-color: #10ecec;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+ul {
+    text-align: left;
+    display: inline-block;
+}
+
+li {
+    padding: 8px;
+}
+
+.footer {
+    margin-top: 30px;
+    color: gray;
+}
